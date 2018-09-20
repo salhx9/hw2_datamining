@@ -1,0 +1,16 @@
+date,outlook,temperature,humidity,windy,play
+9/1/17,Sunny,Hot,High,0,0
+9/8/17,Sunny,Hot,High,1,0
+9/15/17,Overcast,Hot,High,0,1
+9/22/17,Rainy,Mild,High,0,1
+9/29/17,Rainy,Cool,Normal,0,1
+10/1/17,Rainy,Cool,Normal,1,0
+10/8/17,Overcast,Cool,Normal,1,1
+10/15/17,Sunny,Mild,High,0,0
+10/22/17,Sunny,Cool,Normal,0,1,
+10/29/17,Rainy,Mild,Normal,0,1
+11/1/17,Sunny,Mild,Normal,1,1
+11/8/17,Overcast,Mild,High,1,1
+11/15/17,Overcast,Hot,Normal,0,1
+11/22/17,Rainy,Mild,High,1,0
+11/29/17,Rainy,Hot,High,0
